@@ -62,3 +62,11 @@ stack implimention using link list
   
   
   3.delete-beg,middle,end
+  
+  
+  
+  
+  
+  
+  
+TUTORIAL:https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf#page=236: take topics from here(Narsimha karumachi)
