@@ -63,7 +63,22 @@ stack implimention using link list
   
   3.delete-beg,middle,end
   
-  
+7.All_type_of_sorting_with_array
+ 
+ 
+  1.bubble sort
+
+
+  2.selection sort
+
+
+  3.Insertion sort
+
+
+  4.Merge sort
+
+
+  5.Quick Sort
   
   
   
