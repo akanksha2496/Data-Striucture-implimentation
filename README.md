@@ -3,9 +3,11 @@ for knowing details of each codes go to commint sections and see their descripti
 
 
 # 1.stack_using_linklist.java:
-stack implimention using link list
+stack implimention using link list. 
 
-# 2.stack_using_array.java:stack using array
+# 2.stack_using_array.java:
+
+stack using array. 
 
 # 3.Infix_to_postfix_and_prefix_using_array.java:
 
