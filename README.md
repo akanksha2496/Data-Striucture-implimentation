@@ -63,7 +63,7 @@ stack implimention using link list
   
   3.delete-beg,middle,end
   
-7.All_type_of_sorting_with_array
+7.All_type_of_sorting_with_array.java
  
  
   1.bubble sort
