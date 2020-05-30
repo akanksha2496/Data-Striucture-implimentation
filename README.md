@@ -53,6 +53,12 @@ stack using array.
   3. post order travserse
   4. in oerder travserse
   
+# 9.Binary_search_Tree.java
+
+  1. creation
+  2.deletion
+  3.find successor
+  4.find data
   
   
 TUTORIAL:https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf#page=236: take topics from here(Narsimha karumachi)
