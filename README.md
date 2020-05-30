@@ -61,4 +61,10 @@ stack using array.
   4.find data
   
   
-TUTORIAL:https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf#page=236: take topics from here(Narsimha karumachi)
+# Refrences:
+  1. https://www.docdroid.net/ZPfHmS5/data-structures-and-algorithms-narasimha-karumanchi-pdf#page=236.   
+  take topics from here(Narsimha karumachi)
+  2. https://stackoverflow.com/questions/12253746/pseudo-code-and-conditions-for-deleting-a-node-in-binary-search-tree. 
+  3. https://www.youtube.com/watch?v=JsgqnTLjfps . 
+  4. https://www.youtube.com/watch?v=OgJL8eh87PI     . 
+  5. https://www.youtube.com/watch?v=wL7JOLxbMI4. 
