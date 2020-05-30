@@ -46,7 +46,12 @@ stack using array.
   4. Merge sort
   5. Quick Sort
   
-  
+# 8.Binary_tree.java creation
+
+  1. create simple binary tree
+  2. preoerder travser
+  3. post order travserse
+  4. in oerder travserse
   
   
   
