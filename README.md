@@ -55,10 +55,10 @@ stack using array.
   
 # 9.Binary_search_Tree.java
 
-  1. creation
-  2.deletion
-  3.find successor
-  4.find data
+  1. creation. 
+  2.deletion. 
+  3.find successor. 
+  4.find data. 
   
   
 # Refrences:
