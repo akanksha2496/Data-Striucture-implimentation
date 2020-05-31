@@ -79,3 +79,4 @@ stack using array.
   3. https://www.youtube.com/watch?v=JsgqnTLjfps . 
   4. https://www.youtube.com/watch?v=OgJL8eh87PI     . 
   5. https://www.youtube.com/watch?v=wL7JOLxbMI4. 
+  6. For hashing basic program: https://www.sanfoundry.com/java-program-implement-hash-tables/.
