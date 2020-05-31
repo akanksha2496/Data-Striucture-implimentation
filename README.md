@@ -69,6 +69,7 @@ stack using array.
 
     - max from max heap. 
   3. Heapsort
+  4. insert operation in heap
   
   
 # Refrences:
