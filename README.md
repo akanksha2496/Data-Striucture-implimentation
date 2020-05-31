@@ -59,6 +59,14 @@ stack using array.
   2. deletion. 
   3. find successor. 
   4. find data. 
+ 
+# 10.Heap_operations.java
+
+  1. build heap (max heap)  
+  2. extract: 
+    - min from max heap. 
+    - max from max heap. 
+  3. Heapsort
   
   
 # Refrences:
