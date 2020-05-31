@@ -63,8 +63,10 @@ stack using array.
 # 10.Heap_operations.java
 
   1. build heap (max heap)  
-  2. extract: 
+  2. extract-
+  
     - min from max heap. 
+
     - max from max heap. 
   3. Heapsort
   
